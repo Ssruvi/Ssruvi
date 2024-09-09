@@ -1,17 +1,59 @@
-<h1 align="left">Hello 👋, I'm Ssruvi Rupani</h1>
-<h3 align="left">Hi there, I'm a dedicated web developer with a passion for creating visually appealing, responsive, and user-friendly websites. My journey in web development has equipped me with strong skills in front-end and back-end technologies, ensuring that I build websites that not only look great but also provide seamless user experiences.
+<h1 align="center">Hello 👋, I'm <span style="color:#ff69b4;">Ssruvi Rupani</span></h1>
+<h3 align="center">Web Developer | Cybersecurity Enthusiast</h3>
 
-💻 Beyond my love for web design, I'm also deeply intrigued by cybersecurity. As I continue to grow in the field, I’m exploring how to secure applications and protect data from potential threats. I'm excited about the possibilities in this space and am actively pursuing knowledge and certifications to deepen my expertise.
+<p align="center">
+  <img src="https://img.shields.io/badge/Web_Development-%F0%9F%94%8C-brightgreen">
+  <img src="https://img.shields.io/badge/Cybersecurity-%F0%9F%92%BE-blue">
+  <img src="https://img.shields.io/badge/Open%20to%20Collaboration-%E2%9C%85-orange">
+</p>
 
-🚀 I'm always looking for opportunities to collaborate on exciting projects, contribute to open-source, and learn from others in the tech community. Let’s connect and build something great together!</h3>
+---
 
+<h3 align="left">👨‍💻 About Me:</h3>
 
+<p align="left">
+  I'm a passionate <span style="color:#00bfff;">web developer</span> with a keen eye for designing clean, responsive, and user-friendly websites.My journey in web development has equipped me with<span style="color:#00ff00;">front-end</span> and <span style="color:#ff4500;">back-end</span> technologies to create seamless digital experiences.
+</p>
 
-- 🌱 I’m currently pursuing BTech in Computer Science and Engineering (IOT and Cyber Security with Block Chain Technology) at SVKM's Dwarkadas J. Sanghvi College of Engineering
+<p align="left">
+  🔐 I’m also deeply interested in <span style="color:#ffd700;">cybersecurity</span>, learning how to protect data and secure web applications. As I continue to explore the intersection of web development and cybersecurity, I aim to contribute to building safer digital spaces.
+</p>
 
-- 🎓 Completed Diploma in Computer Science Engg at SVKM's Shri Bhagubhai Mafatlal Polytechnic
+---
 
-- 📫 How to reach me *ssruvirupani@gmail.com*
+<h3 align="left">🌱 Education:</h3>
+
+- 🔭 <strong>Currently pursuing</strong>: <span style="color:#8a2be2;">BTech in Computer Science and Engineering (IoT and Cyber Security with Blockchain Technology)</span> at <strong>SVKM's Dwarkadas J. Sanghvi College of Engineering</strong>.
+- 🎓 <strong>Completed</strong>: <span style="color:#00fa9a;">Diploma in Computer Science Engineering</span> at <strong>SVKM's Shri Bhagubhai Mafatlal Polytechnic</strong>.
+
+---
+
+<h3 align="left">🚀 Skills & Technologies:</h3>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML-%E2%9D%A4-red">
+  <img src="https://img.shields.io/badge/CSS-%23-blue">
+  <img src="https://img.shields.io/badge/JavaScript-%E2%9C%85-yellow">
+  <img src="https://img.shields.io/badge/MySQL-%F0%9F%93%8D-blue">
+  <img src="https://img.shields.io/badge/Blockchain-%F0%9F%92%A1-black">
+  <img src="https://img.shields.io/badge/Cybersecurity-%F0%9F%94%92-purple">
+</p>
+
+---
+
+<h3 align="left">📫 How to reach me:</h3>
+
+- Email: <a href="mailto:ssruvirupani@gmail.com" style="color:#ff4500;">ssruvirupani@gmail.com</a>
+- LinkedIn: https://www.linkedin.com/in/ssruvi-rupani-542351270/
+
+---
+
+<h3 align="left">⚡ Fun Fact:</h3>
+
+<p align="left">
+  When I'm not coding or exploring cybersecurity, you can find me binge-watching tech videos or playing around with new design trends!
+</p>
+
 
 
 
